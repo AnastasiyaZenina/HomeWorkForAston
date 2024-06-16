@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93cd3bcd-6bb6-4c37-a509-b5e6ebd04998" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lesson_4_HomeWork/Lesson_4_HomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/Documents/Plan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/Documents/Report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/Documents/Summary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/Documents/allure.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/artifacts/aqa-shop.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/gate-simulator/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/gate-simulator/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/gate-simulator/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/gate-simulator/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/gate-simulator/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/lombok.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/src/test/java/ru/netology/web/data/DataHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/src/test/java/ru/netology/web/page/CreditCardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/src/test/java/ru/netology/web/page/DebetCardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/src/test/java/ru/netology/web/page/PaymentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/src/test/java/ru/netology/web/test/CreditCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/src/test/java/ru/netology/web/test/DebetCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/artifacts/aqa-shop.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/gate-simulator/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/gate-simulator/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/gate-simulator/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/gate-simulator/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/gate-simulator/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/src/test/java/data/CardInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/src/test/java/data/SQLHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/src/test/java/page/CreditPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/src/test/java/page/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/src/test/java/page/PaymentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/src/test/java/tests/CardCvcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/src/test/java/tests/CardHolderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/src/test/java/tests/CardMonthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/src/test/java/tests/CardNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/src/test/java/tests/CardYearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/src/test/java/tests/EmptyFieldsCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/src/test/java/tests/PositiveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gg/src/test/java/tests/ValidValuesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyArrayDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyArraySizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SizeAndSumArray.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hrnc2aMOEcv4FfeJYVrYiLs10G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/79531/Desktop/lesson11",
+    "onboarding.tips.debug.path": "C:/Users/79531/Desktop/lesson12/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="lesson12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93cd3bcd-6bb6-4c37-a509-b5e6ebd04998" name="Changes" comment="" />
+      <created>1718361140724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718361140724</updated>
+    </task>
+    <servers />
+  </component>
+</project>
