@@ -2,7 +2,7 @@ package Factorial;
 
 public class Main {
 
-    public static void main(String[] args) throws java.lang.Exception {
+    public static void main(String[] args) {
 
     }
 
